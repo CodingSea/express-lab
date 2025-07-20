@@ -1,0 +1,15 @@
+body
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li
+{
+    color: blue;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
